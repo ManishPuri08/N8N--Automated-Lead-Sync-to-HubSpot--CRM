@@ -1,12 +1,3 @@
-# Sheets → API → CRM: Automated Lead Sync to HubSpot
-
-### Short Description
-An n8n automation that polls a Google Sheet on a schedule, identifies new/unprocessed leads, checks HubSpot for existing contacts, creates or updates the contact record, and marks the source row as `Processed` — closing the loop between a simple lead-capture sheet and a production CRM with zero manual data entry.
-
----
-
-## README
-
 ### Title
 **Sheets → API → CRM (Automated Lead Sync Pipeline)**
 
